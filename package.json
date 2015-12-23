@@ -1,0 +1,7 @@
+{
+  "name": "calc",
+  "version": "0.0.1",
+  "dependencies": {
+    "semantic-ui": "^2.1.7"
+  }
+}

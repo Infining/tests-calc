@@ -1,0 +1,27 @@
+.centered-text {
+  text-align: center;
+}
+.centered-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+button {
+  width: 100%;
+}
+
+input {
+  text-align: right;
+}
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
